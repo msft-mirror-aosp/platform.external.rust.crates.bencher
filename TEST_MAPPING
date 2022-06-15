@@ -8,11 +8,6 @@
       "path": "external/rust/crates/url"
     }
   ],
-  "postsubmit": [
-    {
-      "name": "bencher_test_lib"
-    }
-  ],
   "presubmit": [
     {
       "name": "bencher_test_lib"
